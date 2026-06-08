@@ -4,7 +4,7 @@ Java console-based application developed for CodeAlpha Java Programming Internsh
 
 ## Features
 
-- Add student names and grades
+- Add student names and marks
 - Calculate average score
 - Find highest score
 - Find lowest score
