@@ -24,7 +24,7 @@ public class StudentGradeTracker {
             System.out.print("Enter Name: ");
             names[i] = sc.nextLine();
 
-            System.out.print("Enter Grade: ");
+            System.out.print("Enter Marks: ");
             grades[i] = sc.nextDouble();
             sc.nextLine();
 
